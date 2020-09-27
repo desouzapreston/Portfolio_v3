@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "portfoliohost"
+    }
+  },
+  "defaultProject": "portfoliohost",
+  "cli": {
+    "analytics": false
+  }
 }
